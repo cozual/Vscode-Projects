@@ -1,4 +1,4 @@
-#fIRST LINE OF CODE IS TO DISPLAY THE TITLE
+#fIRST LINE OF CODE IS TO DISPLAY THE TITLE.
 print("Welcome to the band Generator")
 #HERE I SEPREATED EACH QUESTION IN TO VARIBLES
 question_1 = input("What's the name of the city you grew up in ?")
